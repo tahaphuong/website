@@ -1,11 +1,11 @@
 ---
-title: Build and release an iOS app
-description: How to release a Flutter app to the App Store.
+title: Xây dựng và phát hành ứng dụng iOS
+description: Cách đê phát hành ứng dụng Flutter lên App Store.
 short-title: iOS
 ---
 
-This guide provides a step-by-step walkthrough of releasing a
-Flutter app to the [App Store][appstore] and [TestFlight][].
+Bản hướng dẫn này cung cấp chỉ dẫn từng bước cách phát hành
+ứng dụng Flutter lên [App Store][appstore] và [TestFlight][].
 
 ## Preliminaries
 
